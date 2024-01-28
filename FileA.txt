@@ -1,3 +1,4 @@
 This is FileA
 made a change 1 in FileA
 made a change 2 in FileA
+made change 3 in FileA
